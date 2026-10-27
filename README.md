@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=𑣲&color=373737&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
+Join our Hellsing server, if you're into the anime, we are currently top one on the Hellsing server list. -> https://discord.gg/cJtpVzKDk
 
-<!--
-**VAMPIRE-SPAWN/VAMPIRE-SPAWN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img width="664" height="664" alt="111" src="https://github.com/user-attachments/assets/59983c29-cf89-44c2-bbec-2e4264737a37" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t2w36kx9n55y282zqg8t91fog&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
