@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+<img width="269" height="39" alt="Screenshot 2026-10-27 203749" src="https://github.com/user-attachments/assets/805841b3-d157-4cb9-831a-9ca44fd349c4" />
+
+<p align="center">
 <img width="664" height="664" alt="daaad" src="https://github.com/user-attachments/assets/6ad951a5-07e2-4d3d-a4ab-7b359e98a3fe" />
 
 <p align="center">
