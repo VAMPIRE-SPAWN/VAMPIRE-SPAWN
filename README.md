@@ -12,6 +12,9 @@
 <img width="774" height="774" alt="daaad" src="https://github.com/user-attachments/assets/6ad951a5-07e2-4d3d-a4ab-7b359e98a3fe" />
 
 <p align="center">
+Thank you @pt-hall-of-media for PT's Astarion, and @pt-everypony for PT's Astarion Yume.
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t2w36kx9n55y282zqg8t91fog&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
