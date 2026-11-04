@@ -9,8 +9,7 @@
 <img width="375" height="30" alt="Screenshot 2026-10-28 220133" src="https://github.com/user-attachments/assets/76c8b159-e262-4984-a577-97859be03b94" />
 
 <p align="center">
-<img width="584" height="573" alt="Screenshot 2026-11-03 203852" src="https://github.com/user-attachments/assets/d1f4fb5f-b689-4234-aa5f-751928a1508a" />
-
+<img width="799" height="370" alt="Screenshot 2026-11-03 211135" src="https://github.com/user-attachments/assets/7ff76dc8-38dd-485b-956f-823e345822c6" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
