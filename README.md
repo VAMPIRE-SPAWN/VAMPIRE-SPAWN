@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=𑣲&color=10100f&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BALDURSGATE-3&label=𑣲&color=0f100f&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <img width="375" height="30" alt="Screenshot 2026-10-28 220133" src="https://github.com/user-attachments/assets/76c8b159-e262-4984-a577-97859be03b94" />
 
 <p align="center">
-<img width="799" height="370" alt="Screenshot 2026-11-03 211135" src="https://github.com/user-attachments/assets/7ff76dc8-38dd-485b-956f-823e345822c6" />
+<img width="745" height="511" alt="Screenshot 2026-11-03 211524" src="https://github.com/user-attachments/assets/450a069d-ed7d-45b1-a4c0-2b2fe33a7943" />
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
